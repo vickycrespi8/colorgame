@@ -1,0 +1,39 @@
+body {
+  background-color: #232323;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  background-color: #4682b4;
+  margin: 0;
+  padding: 20px;
+}
+
+#barra {
+  background-color: white;
+  color: black;
+  padding: 10px;
+}
+
+#mensaje {
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+#contenedor {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.cuadrado {
+  width: 30%;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background 0.4s;
+}
